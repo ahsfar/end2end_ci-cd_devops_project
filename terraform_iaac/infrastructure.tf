@@ -1,5 +1,4 @@
-//testing 
-
+// removed testing 
 // which cloud provider
 provider "aws" {
   region = "us-east-1"
